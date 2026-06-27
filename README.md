@@ -38,7 +38,7 @@ The soil moisture sensor continuously measures the moisture content of the soil.
 https://youtu.be/XfGFq9XvTlc?si=s4w_ig7Ya-EVt9B2
 
 ## Repository Link
-https://github.com/ruchhh57-cloud/smart-irrigation-system
+https://github.com/arpithasaanu-a11y/Smart-irrigation-system
 
 ## Conclusion
 This Smart Irrigation System demonstrates how IoT technology can be used to automate irrigation, save water, and improve the efficiency of farming and gardening practices.
